@@ -1,6 +1,6 @@
 <template>
     <div class="c-charts" >
-        <IEcharts :option="radar"  ></IEcharts>
+        <IEcharts :option="radar"   style="height:400px;"></IEcharts>
     </div>
 
 

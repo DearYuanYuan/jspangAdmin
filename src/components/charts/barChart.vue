@@ -1,6 +1,6 @@
 <template>
     <div class="c-charts" >
-        <IEcharts :option="bar"  ></IEcharts>
+        <IEcharts :option="bar"   style="height:400px;"></IEcharts>
     </div>
 
 

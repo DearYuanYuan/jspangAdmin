@@ -1,6 +1,6 @@
 <template>
     <div class="c-charts" >
-        <IEcharts :option="funnel"  ></IEcharts>
+        <IEcharts :option="funnel"  style="height:400px;"></IEcharts>
     </div>
 
 

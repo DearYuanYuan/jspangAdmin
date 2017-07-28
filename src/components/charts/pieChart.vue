@@ -1,6 +1,6 @@
 <template>
     <div class="c-charts" >
-        <IEcharts :option="pie"  ></IEcharts>
+        <IEcharts :option="pie"   style="height:400px;"></IEcharts>
     </div>
 
 
